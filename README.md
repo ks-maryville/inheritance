@@ -12,4 +12,4 @@ I would highly suggest that you look at week 8 and the final project.   You shou
 Submission
 
 If you haven't already, click the link
-Links to an external site. to accept the Week 3 assignment repository.   Be sure to commit all assignments to this one repository.
+Links to an external site. to accept the Week 3 assignment repository. Be sure to commit all assignments to this one repository.
